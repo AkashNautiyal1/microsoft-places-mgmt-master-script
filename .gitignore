@@ -1,0 +1,12 @@
+# Tenant inputs, generated reports, and transcripts are not publication artifacts.
+*.csv
+*.txt
+*.log
+output/
+
+# Local map packages.
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.svg
