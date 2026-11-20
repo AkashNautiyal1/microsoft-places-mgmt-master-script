@@ -48,6 +48,10 @@ signing/execution-policy process. Do not disable protections globally.
 .\microsoft-places-mgmt-master-script.ps1
 ```
 
+### Interactive menu
+
+![Microsoft Places Master Script menu](images/microsoft-places-master-script-menu.png)
+
 1. Select **0** (or press **Enter**) to connect to Microsoft Places.
 2. Select **1** to inspect existing objects.
 3. Choose an operation below and provide its CSV or other inputs.
